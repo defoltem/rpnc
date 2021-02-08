@@ -6,5 +6,5 @@ Easy RPN-calculator for your needs.
 ```
 $ mkdir build && cd build
 $ cmake ../
-$ cmake --build
+$ cmake --build .
 ```
